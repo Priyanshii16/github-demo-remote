@@ -13,7 +13,3 @@ def divide(x,y):   #on master branch
         returb Divide_by_zero_error
     else:
         return x/y 
-
-#square implementation
-def square(x):
-    return x*x
